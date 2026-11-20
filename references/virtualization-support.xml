@@ -330,7 +330,7 @@
           <row>
             <entry>
               <para>
-                &sls; 15 SP3 to SP7
+                &sls; 15 SP4 to SP7
               </para>
             </entry>
             <entry>
@@ -466,17 +466,17 @@
       </listitem>
       <listitem>
         <para>
-          &sls; 15 SP3, 15 SP4, 15 SP5, 15 SP6, 15 SP7
+          &sls; 15 SP4, 15 SP5, 15 SP6, 15 SP7
         </para>
       </listitem>
       <listitem>
        <para>
-        &sls; 16.0
+        &sls; 16.0, 16.1
        </para>
       </listitem>
       <listitem>
         <para>
-          &sles4sap; 15 SP3, 15 SP4, 15 SP5, 15 SP6, 15 SP7, 16.0
+          &sles4sap; 15 SP4, 15 SP5, 15 SP6, 15 SP7, 16.0
         </para>
       </listitem>
       <listitem>
@@ -506,11 +506,6 @@
 
     <itemizedlist>
       <title>The following guest operating systems are supported as a technology preview (L2, fixes if reasonable):</title>
-      <listitem>
-        <para>
-          &sleda; 15 SP3
-        </para>
-      </listitem>
       <listitem>
         <para>
           Windows 10 / 11
