@@ -567,15 +567,6 @@
       </para>
       <variablelist>
         <varlistentry>
-          <term>&redhat;</term>
-          <listitem>
-            <para>
-              Available since &rhel; 5.4. Starting from &rhel; 7.2, &redhat;
-              removed the PV drivers.
-            </para>
-          </listitem>
-        </varlistentry>
-        <varlistentry>
           <term>Windows</term>
           <listitem>
             <para>
